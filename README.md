@@ -13,8 +13,8 @@ Table of contents
    * [R package](#r-package)
    * [Installation](#installation)
    * [Vignettes](#vignettes)
-   * [Acknowledgments](#Authors)
-   * [References](#Contact-information)
+   * [Authors](#Authors)
+   * [Contact Information](#Contact-information)
 <!--te-->
 
 
