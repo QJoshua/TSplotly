@@ -13,8 +13,8 @@ Table of contents
    * [R package](#r-package)
    * [Installation](#installation)
    * [Vignettes](#vignettes)
-   * [Acknowledgments](#acknowledgments)
-   * [References](#references)
+   * [Acknowledgments](#Authors)
+   * [References](#Contact-information)
 <!--te-->
 
 
@@ -69,4 +69,4 @@ This package is created by [Yongkai Qiu](https://socr.umich.edu/people/Yongkai_Q
 
 Contact Information
 ===============
-[Yongkai Qiu](yongkai@umich.edu)
+[Yongkai Qiu](mailto:yongkai@umich.edu)
