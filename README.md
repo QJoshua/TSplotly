@@ -43,7 +43,7 @@ The version 1.1.0 of the CBDA package can be downloaded and installed with the f
 install.packages("TSplotly",repos = 'https://cran.r-project.org/')
 ```
 
-You could also find the installation package in this repository [here]() or in the Github page of [TCIU project](). 
+You could also find the installation package in this repository [here](https://github.com/QJoshua/TSplotly/raw/master/TSplotly_1.1.0.tar.gz) or in the Github page of [TCIU project](https://github.com/SOCR/TCIU). 
 
 You could download to your local enviroment and using the following commands to install this package:
 
